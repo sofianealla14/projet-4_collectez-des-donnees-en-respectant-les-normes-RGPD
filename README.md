@@ -2,7 +2,7 @@
 
 Data Analyst - OpenClassrooms - Sofiane ALLA - Avril 2025
 
-Principes et les applications du RGPD (règlement général sur la protection des données
+Principes et les applications du RGPD (règlement général sur la protection des données)
 
 Objectifs :
 - introduction et processus de collecte des données
